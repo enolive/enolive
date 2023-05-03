@@ -1,6 +1,6 @@
 # Christoph Welcz
 
-Software Crafter, currently employed by DATEV e.G.
+Software Crafter, currently employed at DATEV e.G.
 
 ## What I strongly believe in
 
