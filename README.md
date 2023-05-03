@@ -11,3 +11,5 @@ Software Crafter, currently employed at DATEV e.G.
 - discussions that cannot be solved within 15 minutes can't be solved due to a lack of knowledge
 - when arguing with others, always assume you are wrong
 - human communication usually fails, except by accident
+- the choice of technology is of minor importance, even for horrible ones such as Java+Angular
+- that said, the best programming language in the world is surely Haskell 😉
