@@ -2,7 +2,9 @@
 
 Software Crafter, currently employed at DATEV e.G.
 
-## What I strongly believe in
+## My core principles
+
+Bonus points for you if you know the sources of any or even all of the following statements 💙
 
 - If there is evil in this world, it lurks in the hearts of men
 - 3 hours of meetings saves you 15 minutes of implementation time
