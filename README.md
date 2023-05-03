@@ -2,6 +2,8 @@
 
 Software Crafter, currently employed at DATEV e.G.
 
+Opinions and statements are my own.
+
 ## My core principles
 
 Bonus points for you if you know the sources of any or even all of the following statements 💙
