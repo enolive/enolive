@@ -8,7 +8,7 @@ Opinions and statements are my own.
 
 Bonus points for you if you know the sources of any or even all of the following statements 💙
 
-- If there is evil in this world, it lurks in the hearts of men
+- If there is evil in this world, it lurks in the hearts of mankind
 - 3 hours of meetings saves you 15 minutes of implementation time
 - while it is unlikely that there are any silver bullets in dev, Mob/Ensemble Programming might be one
 - while it is possible to save time XOR money XOR resources on a project, producing deliberately cruft by skipping tests/code quality/whatever will never work
