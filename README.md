@@ -1,6 +1,6 @@
 # Christoph Welcz
 
-Software Crafter, currently employed at DATEV e.G.
+Software Crafter, currently employed at codecentric AG.
 
 Opinions and statements are my own.
 
